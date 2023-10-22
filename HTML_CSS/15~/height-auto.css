@@ -1,0 +1,13 @@
+#one {
+  width: auto;
+  background-color: yellow;
+}
+#two {
+  width: auto;
+  background-color: orange;
+}
+#three {
+  height: auto;
+  min-height: 100px;
+  background-color: pink;
+}

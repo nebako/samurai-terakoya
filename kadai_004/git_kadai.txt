@@ -1,0 +1,7 @@
+$ git init
+$ git add hello_world.txt
+$ git commit -m"add file"
+$ git add hello_world.txt
+$ git commit -m"‚±‚ñ‚É‚¿‚Í"
+$ git log --oneline
+
